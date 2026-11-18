@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://yahoo.com" xml:lang="en-US">
-  <id>tag:github.com,2008:https://github.com</id>
-  <link type="text/html" rel="alternate" href="https://github.com"/>
-  <link type="application/atom+xml" rel="self" href="https://github.com.atom"/>
-  <title>Release notes from example-app</title>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/SecureD-Research/AppUpdatePOC/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/SecureD-Research/AppUpdatePOC/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/SecureD-Research/AppUpdatePOC/releases.atom"/>
+  <title>Release notes from AppUpdatePOC</title>
   <updated>2026-11-18T08:00:00Z</updated>
-
   <entry>
-    <id>tag:github.com,2008:Repository/123456789/v2.1.0</id>
+    <id>tag:github.com,2008:Repository/000000000/v9.9.9</id>
     <updated>2026-11-18T08:00:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://github.com/tag/v2.1.0"/>
-    <title>v2.1.0</title>
-    <content type="html">
-      &lt;p&gt;Added support for exporting reports to CSV and fixed a timezone parsing bug.&lt;/p&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Feat: CSV export in dashboard&lt;/li&gt;
-        &lt;li&gt;Fix: Handle UTC offsets properly&lt;/li&gt;
-      &lt;/ul&gt;
-    </content>
+    <link rel="alternate" type="text/html" href="https://github.com/SecureD-Research/AppUpdatePOC/releases/tag/v9.9.9"/>
+    <title>v9.9.9</title>
+    <content type="html">&lt;p&gt;POC update release.&lt;/p&gt;</content>
     <author>
-      <name>octocat</name>
-    </author>
-  </entry>
-
-  <entry>
-    <id>tag:github.com,2008:Repository/123456789/v2.0.0</id>
-    <updated>2026-10-02T14:30:00Z</updated>
-    <link rel="alternate" type="text/html" href="https://github.com/tag/v2.0.0"/>
-    <title>v2.0.0</title>
-    <content type="html">
-      &lt;p&gt;Major release with a redesigned CLI and updated configuration schema.&lt;/p&gt;
-    </content>
-    <author>
-      <name>octocat</name>
+      <name>SecureD-Research</name>
     </author>
   </entry>
 </feed>

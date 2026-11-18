@@ -1,0 +1,8 @@
+version: 9.9.9
+files:
+  - url: USB-Transfer-Setup-9.9.9.exe
+    sha512: REPLACE_WITH_BASE64_SHA512
+    size: 0
+path: USB-Transfer-Setup-9.9.9.exe
+sha512: REPLACE_WITH_BASE64_SHA512
+releaseDate: '2026-11-18T08:00:00.000Z'
